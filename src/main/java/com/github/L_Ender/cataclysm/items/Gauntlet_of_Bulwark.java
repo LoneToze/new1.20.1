@@ -141,7 +141,7 @@ public class Gauntlet_of_Bulwark extends Item implements More_Tool_Attribute {
                     ChargeCapability.setTimer(t * 2);
                     ChargeCapability.seteffectiveChargeTime(t * 2);
                     ChargeCapability.setknockbackSpeedIndex(t * 0.35F);
-                    ChargeCapability.setdamagePerEffectiveCharge(1.2F);
+                    ChargeCapability.setdamagePerEffectiveCharge(1.5F);
                     ChargeCapability.setdx(f1 * 0.5F);
                     ChargeCapability.setdZ(f3 * 0.5F);
                 }
